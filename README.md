@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vatsal Dhanani
+### **Hi there 👋 I'm Vatsal Dhanani**
 
  🎓 I'm a first-year **IMCA (SAP)** student at **Parul University**, currently based in **Vadodara**, Gujarat.  
  🏡 Originally from **Valsad**, Gujarat.
