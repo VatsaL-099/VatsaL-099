@@ -1,14 +1,14 @@
 ### **Hi there 👋 I'm Vatsal Dhanani**
 
- 🎓 I'm a first-year **IMCA (SAP)** student at **Parul University**, currently based in **Vadodara**, Gujarat.  
+ 🎓 I'm a first-year **IMCA (SAP)** student at **Parul University**, 📍currently based in **Vadodara**, Gujarat.  
  🏡 Originally from **Valsad**, Gujarat.
  💻 I enjoy exploring the world of tech with a strong interest in **Ethical Hacking**.  
- 🐍 Skilled in **Python**, and currently learning **Data Structures & Algorithms** to strengthen my problem-solving abilities.  
+ 🐍 Skilled in **Python🐍**, and currently learning **Data Structures & Algorithms🧠** to strengthen my problem-solving abilities.  
  🎯 My short-term goal is to crack **paid internships** at Service-Based Companies.  
- 🌐 Long-term, I’m aiming for a **Tech Job Abroad** to explore Global Opportunities.  
- 🕹️ Outside of code, Inspired by exploration, I enjoy Travelling ✈️ | Hiking 🥾 | Camping 🏕️ — activities that strengthen my mindset as a learner and problem-solver.
+ 🌐 Long-term, I’m aiming for a **Tech Job Abroad** to explore Global Opportunities🌎.  
+ 🕹️ Outside of code, Inspired by exploration, I enjoy **Travelling ✈️ | Hiking 🥾 | Camping 🏕️**— activities that strengthen my mindset as a learner and problem-solver.
 
-Let's Connect and Grow Together 🚀
+**Let's Connect and Grow Together🚀📈**
 
 
 ## 🌐 Socials:
