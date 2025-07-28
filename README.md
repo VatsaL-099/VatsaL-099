@@ -9,9 +9,6 @@
 
 Let's connect and grow together 🚀
 
-# 💫 About Me:
-### Hi there 👋 I'm Vatsal Dhanani<br><br>🎓 I'm a first-year IMCA (SAP) student from Valsad, Gujarat.  <br>💻 I enjoy exploring tech with a strong interest in **Ethical Hacking**.  <br>🐍 Skilled in **Python** and currently diving into **Data Structures & Algorithms** to strengthen my problem-solving abilities.  <br>🎯 My short-term goal is to crack **paid internships** at service-based companies.  <br>🌐 Long-term, I’m aiming for a **tech job abroad** to explore global opportunities.  <br>🕹️ Outside of code, I enjoy **reading** and **gaming**.<br><br>Let's connect and grow together 🚀<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.vatsall.11) 
