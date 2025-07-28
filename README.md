@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&psig=AOvVaw2RRN9NzQ3FxO7T6Xu78G6o&ust=1753816652438000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDuo6-i4I4DFQAAAAAdAAAAABBg) <!-- Replace with your actual image link -->
+![Banner](https://i.imgur.com/exampleBanner.png) <!-- Replace with your actual image link -->
 
 ### Hi there 👋 I'm Vatsal Dhanani
 
@@ -10,9 +10,6 @@
 🎯 My short-term goal is to crack **paid internships** at service-based companies.  
 🌐 Long-term, I’m aiming for a **tech job abroad** to explore global opportunities.  
 🕹️ Outside of code, I enjoy **reading** and **gaming**.
-
-Let's connect and grow together 🚀
-
 
 Let's connect and grow together 🚀
 
