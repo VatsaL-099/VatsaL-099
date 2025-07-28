@@ -6,7 +6,7 @@
  🐍 Skilled in **Python**, and currently learning **Data Structures & Algorithms** to strengthen my problem-solving abilities.  
  🎯 My short-term goal is to crack **paid internships** at Service-Based Companies.  
  🌐 Long-term, I’m aiming for a **Tech Job Abroad** to explore Global Opportunities.  
-🕹️ Outside of code, Inspired by exploration, I enjoy Travelling ✈️ | Hiking 🥾 | Camping 🏕️ — activities that strengthen my mindset as a learner and problem-solver.
+ 🕹️ Outside of code, Inspired by exploration, I enjoy Travelling ✈️ | Hiking 🥾 | Camping 🏕️ — activities that strengthen my mindset as a learner and problem-solver.
 
 Let's Connect and Grow Together 🚀
 
