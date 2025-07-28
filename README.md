@@ -6,7 +6,7 @@
  🐍 Skilled in **Python**, and currently learning **Data Structures & Algorithms** to strengthen my problem-solving abilities.  
  🎯 My short-term goal is to crack **paid internships** at service-based companies.  
  🌐 Long-term, I’m aiming for a **tech job abroad** to explore global opportunities.  
- 🕹️ Outside of code, I enjoy **reading**, **gaming**, and **hitting the gym** 🏋️.
+ 🕹️ Outside of code, I enjoy **gaming🎮**,**travelling** 🌍, **hiking** 🥾, and **camping** 🏕️.
 
 Let's connect and grow together 🚀
 
