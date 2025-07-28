@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Vatsal Dhanani
+
+🎓 I'm a first-year IMCA (SAP) student from Valsad, Gujarat.  
+💻 I enjoy exploring tech with a strong interest in **Ethical Hacking**.  
+🐍 Skilled in **Python** and currently diving into **Data Structures & Algorithms** to strengthen my problem-solving abilities.  
+🎯 My short-term goal is to crack **paid internships** at service-based companies.  
+🌐 Long-term, I’m aiming for a **tech job abroad** to explore global opportunities.  
+🕹️ Outside of code, I enjoy **reading** and **gaming**.
+
+Let's connect and grow together 🚀
 
 <!--
 **VatsaL-099/VatsaL-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
