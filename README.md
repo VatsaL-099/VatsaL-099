@@ -4,11 +4,11 @@
  🏡 Originally from **Valsad**, Gujarat.
  💻 I enjoy exploring the world of tech with a strong interest in **Ethical Hacking**.  
  🐍 Skilled in **Python**, and currently learning **Data Structures & Algorithms** to strengthen my problem-solving abilities.  
- 🎯 My short-term goal is to crack **paid internships** at service-based companies.  
- 🌐 Long-term, I’m aiming for a **tech job abroad** to explore global opportunities.  
- 🕹️ Outside of code, I enjoy **gaming🎮**,**travelling** 🌍, **hiking** 🥾, and **camping** 🏕️.
+ 🎯 My short-term goal is to crack **paid internships** at Service-Based Companies.  
+ 🌐 Long-term, I’m aiming for a **Tech Job Abroad** to explore Global Opportunities.  
+ 🕹️ Outside of code, I enjoy **Gaming🎮**,**Travelling** 🌍, **Hiking** 🥾, and **Camping** 🏕️.
 
-Let's connect and grow together 🚀
+Let's Connect and Grow Together 🚀
 
 
 ## 🌐 Socials:
