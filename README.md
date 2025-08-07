@@ -1,6 +1,6 @@
 ### **Hi there 👋 I'm Vatsal Dhanani**
 
- 🎓 I'm a first-year **IMCA (SAP)** student at **Parul University**, 📍currently based in **Vadodara**, Gujarat.  
+ 🎓 I'm a first-year **IMCA (Microsoft)** student at **Parul University**, 📍currently based in **Vadodara**, Gujarat.  
  🏡 Originally from **Valsad**, Gujarat.
  💻 I enjoy exploring the world of tech with a strong interest in **Ethical Hacking**.  
  🐍 Skilled in **Python🐍**, and currently learning **Data Structures & Algorithms🧠** to strengthen my problem-solving abilities.  
